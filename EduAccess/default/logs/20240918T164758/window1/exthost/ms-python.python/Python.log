@@ -1,0 +1,113 @@
+2024-09-18 16:48:00.602 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-09-18 16:48:00.602 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-09-18 16:48:00.602 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-09-18 16:48:00.602 [info] Experiment 'pythonTestAdapter' is active
+2024-09-18 16:48:00.602 [warning] Dir "/home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/.pixi/envs" is not watchable (directory does not exist)
+2024-09-18 16:48:00.602 [info] Default formatter is set to null for workspace /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess
+2024-09-18 16:48:00.602 [info] Python interpreter path: /bin/python3
+2024-09-18 16:48:00.628 [info] > pyenv which python
+2024-09-18 16:48:00.628 [info] cwd: .
+2024-09-18 16:48:00.940 [info] > pixi --version
+2024-09-18 16:48:00.941 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-09-18 16:48:01.208 [info] Shell integration status changed, can confirm it's working.
+2024-09-18 16:48:01.209 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-09-18 16:48:02.138 [info] Starting Pylance language server.
+2024-09-18 16:48:23.950 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-18 16:51:51.056 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-18 16:55:28.819 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-18 17:13:44.798 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-18 17:19:42.875 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-18 17:20:02.324 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/views.py
+2024-09-18 17:20:39.824 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/admin.py
+2024-09-18 17:23:14.453 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/views.py
+2024-09-18 17:23:22.851 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/views.py
+2024-09-18 17:25:33.943 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/views.py
+2024-09-18 17:26:22.810 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/views.py
+2024-09-18 17:26:43.951 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/views.py
+2024-09-18 17:33:58.659 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/views.py
+2024-09-18 17:34:03.251 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/urls.py
+2024-09-18 17:34:30.100 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/urls.py
+2024-09-18 17:46:24.831 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/urls.py
+2024-09-18 17:47:22.985 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/EduAccess/urls.py
+2024-09-18 17:53:41.174 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/views.py
+2024-09-18 17:56:28.681 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-18 17:57:31.513 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-18 17:58:54.718 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-18 18:00:00.605 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/views.py
+2024-09-18 18:00:19.114 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/views.py
+2024-09-18 18:00:51.141 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/views.py
+2024-09-18 18:01:08.700 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/views.py
+2024-09-18 18:01:58.327 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/views.py
+2024-09-18 18:02:33.195 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/views.py
+2024-09-18 18:06:38.986 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/urls.py
+2024-09-18 18:08:32.319 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/views.py
+2024-09-18 18:23:40.278 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-18 18:24:10.763 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-18 18:25:19.664 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-18 18:26:07.938 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-18 18:28:01.667 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/EduAccess/settings.py
+2024-09-18 18:28:57.125 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/EduAccess/settings.py
+2024-09-18 18:32:51.211 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-09-18 18:32:51.211 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-09-18 18:32:51.211 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-09-18 18:32:51.211 [info] Experiment 'pythonTestAdapter' is active
+2024-09-18 18:32:51.211 [warning] Dir "/home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/.pixi/envs" is not watchable (directory does not exist)
+2024-09-18 18:32:51.211 [info] Default formatter is set to null for workspace /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess
+2024-09-18 18:32:51.214 [info] Python interpreter path: /bin/python3
+2024-09-18 18:32:51.245 [info] > pyenv which python
+2024-09-18 18:32:51.245 [info] cwd: .
+2024-09-18 18:32:51.510 [info] > pixi --version
+2024-09-18 18:32:51.511 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-09-18 18:32:52.955 [info] Starting Pylance language server.
+2024-09-18 18:57:16.473 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/library/models.py
+2024-09-18 18:58:50.644 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/library/models.py
+2024-09-18 19:04:17.989 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/library/models.py
+2024-09-18 19:09:55.862 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/library/models.py
+2024-09-18 19:10:51.369 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/library/models.py
+2024-09-18 19:13:05.771 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/library/models.py
+2024-09-18 19:17:49.860 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/library/models.py
+2024-09-18 19:41:12.155 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/library/admin.py
+2024-09-19 13:38:08.117 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/library/admin.py
+2024-09-19 13:38:18.424 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-19 13:38:58.172 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-19 13:40:35.912 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-19 14:10:46.606 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-19 14:13:10.795 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-19 14:13:40.577 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-19 14:14:20.635 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-19 14:15:18.535 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-19 14:16:00.713 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-19 14:16:35.296 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/EduAccess/settings.py
+2024-09-19 14:19:40.598 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/store/models.py
+2024-09-19 14:19:58.020 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/library/models.py
+2024-09-19 14:23:35.847 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/store/models.py
+2024-09-19 14:24:23.028 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/library/models.py
+2024-09-19 14:24:31.189 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/store/models.py
+2024-09-19 14:26:21.088 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/store/models.py
+2024-09-19 14:26:45.550 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/store/models.py
+2024-09-19 14:52:16.844 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/store/models.py
+2024-09-19 14:52:31.071 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/store/models.py
+2024-09-19 14:52:46.410 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/library/models.py
+2024-09-19 14:53:28.411 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/store/admin.py
+2024-09-19 14:54:01.392 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/store/admin.py
+2024-09-19 15:15:51.246 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/urls.py
+2024-09-19 15:25:41.922 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-19 15:26:13.192 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-19 15:32:01.345 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/store/views.py
+2024-09-19 15:33:08.790 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/store/views.py
+2024-09-19 15:33:24.703 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/store/views.py
+2024-09-19 15:33:54.505 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/store/views.py
+2024-09-19 15:34:15.871 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/store/views.py
+2024-09-19 15:34:30.503 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/store/views.py
+2024-09-19 15:34:52.803 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/library/views.py
+2024-09-19 15:35:30.256 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/library/views.py
+2024-09-19 15:36:00.662 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/library/views.py
+2024-09-19 15:36:53.369 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/library/views.py
+2024-09-19 15:37:22.263 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/library/views.py
+2024-09-19 15:37:41.319 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/store/views.py
+2024-09-19 15:40:59.595 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/store/views.py
+2024-09-19 15:41:44.630 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/store/urls.py
+2024-09-19 15:44:40.606 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/library/views.py
+2024-09-19 15:45:22.958 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/library/urls.py
+2024-09-19 15:45:28.957 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/library/urls.py
+2024-09-19 15:45:38.742 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/store/urls.py

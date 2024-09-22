@@ -1,0 +1,7 @@
+2024-09-18 16:48:02 [DEBUG] Resource server started on port 8828
+2024-09-18 18:30:17 [DEBUG] Creating MySQL connection for 1726673417474
+2024-09-18 18:30:21 [DEBUG] Creating MySQL connection for 1726673417474_tree
+2024-09-18 18:32:06 [ INFO] Executing: DEFAULT CHARACTER SET = 'utf8mb4'
+2024-09-18 18:32:06 [ERROR] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DEFAULT CHARACTER SET = 'utf8mb4'' at line 1
+2024-09-18 18:32:14 [ INFO] Executing: CREATE DATABASE EduAccess     DEFAULT CHARACTER SET = 'utf8mb4'
+2024-09-18 18:32:14 [ INFO] Result: 1 rows affected in 9ms

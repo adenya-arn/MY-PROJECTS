@@ -1,0 +1,80 @@
+2024-09-13 14:31:03.420 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-09-13 14:31:03.420 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-09-13 14:31:03.420 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-09-13 14:31:03.420 [info] Experiment 'pythonTestAdapter' is active
+2024-09-13 14:31:03.438 [warning] Dir "/home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/.pixi/envs" is not watchable (directory does not exist)
+2024-09-13 14:31:03.557 [info] > pyenv which python
+2024-09-13 14:31:03.557 [info] cwd: .
+2024-09-13 14:31:03.568 [info] > pixi --version
+2024-09-13 14:31:03.569 [warning] could not find a pixi interpreter for the interpreter at python
+2024-09-13 14:31:03.576 [info] > python -c "import sys;print(sys.executable)"
+2024-09-13 14:31:03.578 [error] [Error: Command failed: python -c "import sys;print(sys.executable)"
+/bin/sh: 1: python: not found
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:423:12)
+	at ChildProcess.emit (node:events:531:35)
+	at maybeClose (node:internal/child_process:1105:16)
+	at Socket.<anonymous> (node:internal/child_process:457:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:338:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'python -c "import sys;print(sys.executable)"'
+}
+2024-09-13 14:31:05.433 [info] Starting Pylance language server.
+2024-09-13 14:31:16.565 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-09-13 14:31:16.565 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-09-13 14:31:16.565 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-09-13 14:31:16.565 [info] Experiment 'pythonTestAdapter' is active
+2024-09-13 14:31:16.571 [warning] Dir "/home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/.pixi/envs" is not watchable (directory does not exist)
+2024-09-13 14:31:16.691 [info] Default formatter is set to null for workspace /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess
+2024-09-13 14:31:16.702 [info] Starting Environment refresh
+2024-09-13 14:31:16.702 [info] Searching for interpreters in posix paths locator
+2024-09-13 14:31:16.706 [info] Searching for pyenv environments
+2024-09-13 14:31:16.706 [info] Searching for conda environments
+2024-09-13 14:31:16.706 [info] Searching for global virtual environments
+2024-09-13 14:31:16.706 [info] Searching for custom virtual environments
+2024-09-13 14:31:16.713 [info] pyenv is not installed
+2024-09-13 14:31:16.713 [info] Finished searching for pyenv environments: 11 milliseconds
+2024-09-13 14:31:16.713 [info] Finished searching for custom virtual envs: 9 milliseconds
+2024-09-13 14:31:16.719 [info] > conda info --json
+2024-09-13 14:31:16.726 [info] > hatch env show --json
+2024-09-13 14:31:16.727 [info] cwd: .
+2024-09-13 14:31:16.831 [info] > pyenv which python
+2024-09-13 14:31:16.831 [info] cwd: .
+2024-09-13 14:31:16.832 [info] Finished searching for global virtual envs: 128 milliseconds
+2024-09-13 14:31:17.829 [info] Found: /bin/python3 --> /bin/python3.10
+2024-09-13 14:31:17.869 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-09-13 14:31:17.910 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2024-09-13 14:31:17.910 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-09-13 14:31:17.936 [info] Finished searching for interpreters in posix paths locator: 1230 milliseconds
+2024-09-13 14:31:17.936 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-09-13 14:31:17.946 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-09-13 14:31:17.946 [info] Environments refresh paths discovered (event): 1245 milliseconds
+2024-09-13 14:31:17.946 [info] Environments refresh paths discovered: 1246 milliseconds
+2024-09-13 14:31:17.982 [info] Environments refresh finished (event): 1282 milliseconds
+2024-09-13 14:31:17.988 [info] Environment refresh took 1289 milliseconds
+2024-09-13 14:31:17.993 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-09-13 14:31:18.020 [info] Python interpreter path: /bin/python3
+2024-09-13 14:31:18.025 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-09-13 14:31:19.082 [info] Starting Pylance language server.
+2024-09-13 14:31:19.097 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-09-13 14:37:04.819 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/EduAccess/settings.py
+2024-09-13 14:40:02.552 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/EduAccess/settings.py
+2024-09-13 14:40:42.133 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/EduAccess/settings.py
+2024-09-13 14:51:01.515 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/admin.py
+2024-09-13 14:51:28.833 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-13 14:56:02.550 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-13 15:06:36.470 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-13 15:07:04.988 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/admin.py
+2024-09-13 15:07:16.110 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/admin.py
+2024-09-13 15:07:26.139 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/admin.py
+2024-09-13 15:08:06.067 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-13 15:11:58.898 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-13 23:10:49.889 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-14 00:38:56.117 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-14 00:39:37.119 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py
+2024-09-14 00:40:42.106 [info] Discover tests for workspace name: EduAccess - uri: /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/school/models.py

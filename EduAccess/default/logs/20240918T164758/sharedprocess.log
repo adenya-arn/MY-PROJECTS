@@ -1,0 +1,15 @@
+2024-09-18 16:47:59.887 [info] Deleted uninstalled extension from disk cweijan.vscode-mysql-client2 /root/.vscode/extensions/cweijan.vscode-mysql-client2-7.6.0
+2024-09-18 16:48:04.414 [info] Getting Manifest... cweijan.vscode-mysql-client2
+2024-09-18 16:48:04.747 [info] Installing extension: cweijan.vscode-mysql-client2 {"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/root/.vscode/extensions/extensions.json","path":"/root/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-09-18 16:48:08.197 [info] Extension signature verification result for cweijan.vscode-mysql-client2: Success. Executed: true. Duration: 1009ms.
+2024-09-18 16:48:08.468 [info] Extracted extension to file:///root/.vscode/extensions/cweijan.vscode-mysql-client2-7.6.2: cweijan.vscode-mysql-client2
+2024-09-18 16:48:08.475 [info] Renamed to /root/.vscode/extensions/cweijan.vscode-mysql-client2-7.6.2
+2024-09-18 16:48:08.492 [info] Marked extension as uninstalled cweijan.vscode-mysql-client2-7.6.1
+2024-09-18 16:48:08.498 [info] Extension installed successfully: cweijan.vscode-mysql-client2 vscode-userdata:/root/.vscode/extensions/extensions.json
+2024-09-18 16:48:08.565 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)

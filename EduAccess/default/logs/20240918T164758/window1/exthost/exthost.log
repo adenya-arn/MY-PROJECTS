@@ -1,0 +1,52 @@
+2024-09-18 16:48:00.007 [info] Extension host with pid 14377 started
+2024-09-18 16:48:00.007 [info] Skipping acquiring lock for /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/default/User/workspaceStorage/0e890b5769eaa4e8de2ebda2087c0a26.
+2024-09-18 16:48:00.222 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-18 16:48:00.230 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-09-18 16:48:00.636 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-09-18 16:48:00.665 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-09-18 16:48:00.997 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-09-18 16:48:01.116 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-09-18 16:48:01.159 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-18 16:48:01.236 [info] Eager extensions activated
+2024-09-18 16:48:01.278 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-18 16:48:01.282 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-18 16:48:01.297 [info] ExtensionService#_doActivateExtension cweijan.vscode-mysql-client2, startup: false, activationEvent: 'onStartupFinished'
+2024-09-18 16:48:01.745 [info] ExtensionService#_doActivateExtension Postman.postman-for-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-09-18 16:48:01.915 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-09-18 16:48:03.087 [error] Error: ENOENT: no such file or directory, open '/home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/default/User/globalStorage/vscodevim.vim/.registers'
+2024-09-18 17:04:59.678 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-09-18 18:31:25.587 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model24)
+2024-09-18 18:31:25.588 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model24)
+2024-09-18 18:32:49.649 [info] Extension host terminating: renderer closed the MessagePort
+2024-09-18 18:32:49.711 [error] TypeError: r.some is not a function
+	at d.saveToDisk (/root/.vscode/extensions/vscodevim.vim-1.28.1/out/extension.js:2:646151)
+	at t.deactivate (/root/.vscode/extensions/vscodevim.vim-1.28.1/out/extension.js:2:176792)
+	at m.eb (/snap/code/169/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:10082)
+	at /snap/code/169/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:8153
+	at Array.map (<anonymous>)
+	at m.$ (/snap/code/169/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:8140)
+	at m.terminate (/snap/code/169/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:8413)
+	at $.terminate (/snap/code/169/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:1513)
+	at n (/snap/code/169/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:184:10613)
+	at MessagePortMain.<anonymous> (/snap/code/169/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:184:6805)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:488:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)
+2024-09-18 18:32:49.724 [info] Extension host with pid 14377 exiting with code 0
+2024-09-18 18:32:50.309 [info] Extension host with pid 23927 started
+2024-09-18 18:32:50.309 [info] Skipping acquiring lock for /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/default/User/workspaceStorage/0e890b5769eaa4e8de2ebda2087c0a26.
+2024-09-18 18:32:50.332 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-18 18:32:50.339 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-09-18 18:32:50.434 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onCommand:type'
+2024-09-18 18:32:50.494 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-09-18 18:32:50.520 [info] ExtensionService#_doActivateExtension cweijan.vscode-mysql-client2, startup: false, activationEvent: 'onView:github.cweijan.mysql'
+2024-09-18 18:32:51.256 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-09-18 18:32:51.276 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-09-18 18:32:51.493 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-09-18 18:32:51.513 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-09-18 18:32:51.535 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-18 18:32:51.579 [info] Eager extensions activated
+2024-09-18 18:32:51.612 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-18 18:32:51.615 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-18 18:32:51.620 [info] ExtensionService#_doActivateExtension Postman.postman-for-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-09-18 18:32:52.092 [error] Error: ENOENT: no such file or directory, open '/home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess/default/User/globalStorage/vscodevim.vim/.registers'

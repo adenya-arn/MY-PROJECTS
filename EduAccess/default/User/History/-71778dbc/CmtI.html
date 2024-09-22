@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Django Blog{% endblock %}</title>
+</head>
+<body>
+
+    <header>
+        <nav>
+            <ul>
+                <li><a href="{% url 'home' %}">Home</a></li>
+                <li><a href="{% url 'classes' %}">Classes</a></li>
+                <li><a href="{% url 'grade' %}">Grade</a></li>
+                <li><a href="{% url 'parents' %}">Parents</a></li>
+                <li><a href="{% url 'roles' %}">Roles</a></li>
+                <li><a href="{% url 'staff' %}">Staff</a></li>
+                <li><a href="{% url 'students' %}">Students</a></li>
+                <li><a href="{% url 'register' %}">Subjects</a></li>
+                <li><a href="{% url 'staff' %}">Staff</a></li>
+                <li><a href="{% url 'login' %}">Students</a></li>
+                <li><a href="{% url 'register' %}">rRegister</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="content">
+        {% block content %}
+        <!-- Page-specific content goes here -->
+        {% endblock %}
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Django Blog</p>
+    </footer>
+
+</body>
+</html>

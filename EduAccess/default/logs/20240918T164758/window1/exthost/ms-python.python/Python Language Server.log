@@ -1,0 +1,150 @@
+2024-09-18 16:48:02.010 [info] [Info  - 4:48:01 PM] (14533) Server root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.9.1/dist
+2024-09-18 16:48:02.096 [info] [Info  - 4:48:02 PM] (14533) Pylance language server 2024.9.1 (pyright version 1.1.378, commit ce64adc1) starting
+2024-09-18 16:48:02.108 [info] (Client) Pylance async client (2024.9.1) started with python extension (2024.14.1)
+2024-09-18 16:48:02.119 [info] [Info  - 4:48:02 PM] (14533) Starting service instance "EduAccess"
+2024-09-18 16:48:02.182 [info] [Info  - 4:48:02 PM] (14533) Setting environmentName for service "EduAccess": "3.10.12 (global)"
+2024-09-18 16:48:02.182 [info] [Info  - 4:48:02 PM] (14533) Setting pythonPath for service "EduAccess": "/bin/python3"
+2024-09-18 16:48:02.182 [info] [Info  - 4:48:02 PM] (14533) No include entries specified; assuming /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess
+2024-09-18 16:48:02.183 [info] [Info  - 4:48:02 PM] (14533) Auto-excluding **/node_modules
+2024-09-18 16:48:02.184 [info] [Info  - 4:48:02 PM] (14533) Auto-excluding **/__pycache__
+2024-09-18 16:48:02.184 [info] [Info  - 4:48:02 PM] (14533) Auto-excluding **/.*
+2024-09-18 16:48:02.224 [info] [Info  - 4:48:02 PM] (14533) Assuming Python version 3.10.12.final.0
+2024-09-18 16:48:02.399 [info] [Info  - 4:48:02 PM] (14533) Found 30 source files
+2024-09-18 16:48:02.434 [info] [Info  - 4:48:02 PM] (14533) Background analysis(1) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.9.1/dist
+2024-09-18 16:48:02.435 [info] [Info  - 4:48:02 PM] (14533) Background analysis(1) started
+2024-09-18 16:48:03.109 [info] [Info  - 4:48:03 PM] (14533) Indexer background runner(2) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.9.1/dist (index)
+2024-09-18 16:48:03.122 [info] [Info  - 4:48:03 PM] (14533) Indexing(2) started
+2024-09-18 16:48:03.739 [info] [Info  - 4:48:03 PM] (14533) scanned(2) 129 files over 1 exec env
+2024-09-18 16:48:03.950 [info] [Info  - 4:48:03 PM] (14533) indexed(2) 72 files over 1 exec env
+2024-09-18 16:48:03.984 [info] [Info  - 4:48:03 PM] (14533) Indexing finished(2).
+2024-09-18 16:48:24.083 [info] [Info  - 4:48:24 PM] (14533) Found 31 source files
+2024-09-18 16:49:25.451 [info] [Info  - 4:49:25 PM] (14533) Starting service instance "<default>"
+2024-09-18 16:49:25.517 [info] [Info  - 4:49:25 PM] (14533) Setting environmentName for service "<default>": "3.10.12 (global)"
+2024-09-18 16:49:25.518 [info] [Info  - 4:49:25 PM] (14533) Setting pythonPath for service "<default>": "/bin/python3"
+2024-09-18 16:49:25.518 [info] [Info  - 4:49:25 PM] (14533) No include entries specified; assuming /<default workspace root>
+2024-09-18 16:49:25.519 [info] [Info  - 4:49:25 PM] (14533) Auto-excluding **/node_modules
+2024-09-18 16:49:25.519 [info] [Info  - 4:49:25 PM] (14533) Auto-excluding **/__pycache__
+2024-09-18 16:49:25.519 [info] [Info  - 4:49:25 PM] (14533) Auto-excluding **/.*
+2024-09-18 16:49:25.546 [info] [Info  - 4:49:25 PM] (14533) Assuming Python version 3.10.12.final.0
+2024-09-18 16:49:25.592 [info] [Error - 4:49:25 PM] (14533) File or directory "/<default workspace root>" does not exist.
+2024-09-18 16:49:25.592 [info] [Info  - 4:49:25 PM] (14533) No source files found.
+2024-09-18 16:49:26.042 [info] [Info  - 4:49:26 PM] (14533) Background analysis(3) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.9.1/dist
+2024-09-18 16:49:26.045 [info] [Info  - 4:49:26 PM] (14533) Background analysis(3) started
+2024-09-18 16:51:51.643 [info] [Info  - 4:51:51 PM] (14533) Found 32 source files
+2024-09-18 16:55:28.957 [info] [Info  - 4:55:28 PM] (14533) Found 33 source files
+2024-09-18 17:13:45.372 [info] [Info  - 5:13:45 PM] (14533) Found 34 source files
+2024-09-18 17:19:43.349 [info] [Info  - 5:19:43 PM] (14533) Found 35 source files
+2024-09-18 17:20:02.908 [info] [Info  - 5:20:02 PM] (14533) Found 36 source files
+2024-09-18 17:20:40.408 [info] [Info  - 5:20:40 PM] (14533) Found 37 source files
+2024-09-18 17:23:15.039 [info] [Info  - 5:23:15 PM] (14533) Found 38 source files
+2024-09-18 17:25:34.513 [info] [Info  - 5:25:34 PM] (14533) Found 39 source files
+2024-09-18 17:26:23.390 [info] [Info  - 5:26:23 PM] (14533) Found 40 source files
+2024-09-18 17:26:44.529 [info] [Info  - 5:26:44 PM] (14533) Found 41 source files
+2024-09-18 17:34:03.827 [info] [Info  - 5:34:03 PM] (14533) Found 42 source files
+2024-09-18 17:34:30.689 [info] [Info  - 5:34:30 PM] (14533) Found 43 source files
+2024-09-18 17:46:24.965 [info] [Info  - 5:46:24 PM] (14533) Found 44 source files
+2024-09-18 17:47:23.567 [info] [Info  - 5:47:23 PM] (14533) Found 45 source files
+2024-09-18 17:53:41.752 [info] [Info  - 5:53:41 PM] (14533) Found 46 source files
+2024-09-18 17:56:29.158 [info] [Info  - 5:56:29 PM] (14533) Found 47 source files
+2024-09-18 17:57:31.681 [info] [Info  - 5:57:31 PM] (14533) Found 48 source files
+2024-09-18 17:58:55.159 [info] [Info  - 5:58:55 PM] (14533) Found 49 source files
+2024-09-18 18:00:01.181 [info] [Info  - 6:00:01 PM] (14533) Found 50 source files
+2024-09-18 18:00:19.695 [info] [Info  - 6:00:19 PM] (14533) Found 51 source files
+2024-09-18 18:00:51.699 [info] [Info  - 6:00:51 PM] (14533) Found 52 source files
+2024-09-18 18:01:09.271 [info] [Info  - 6:01:09 PM] (14533) Found 53 source files
+2024-09-18 18:01:58.920 [info] [Info  - 6:01:58 PM] (14533) Found 54 source files
+2024-09-18 18:02:33.770 [info] [Info  - 6:02:33 PM] (14533) Found 55 source files
+2024-09-18 18:06:39.570 [info] [Info  - 6:06:39 PM] (14533) Found 56 source files
+2024-09-18 18:08:32.891 [info] [Info  - 6:08:32 PM] (14533) Found 57 source files
+2024-09-18 18:23:40.838 [info] [Info  - 6:23:40 PM] (14533) Found 58 source files
+2024-09-18 18:24:11.335 [info] [Info  - 6:24:11 PM] (14533) Found 59 source files
+2024-09-18 18:25:20.239 [info] [Info  - 6:25:20 PM] (14533) Found 60 source files
+2024-09-18 18:26:08.486 [info] [Info  - 6:26:08 PM] (14533) Found 61 source files
+2024-09-18 18:26:46.037 [info] [Info  - 6:26:46 PM] (14533) Found 68 source files
+2024-09-18 18:27:01.092 [info] [Info  - 6:27:01 PM] (14533) Found 61 source files
+2024-09-18 18:27:18.473 [info] [Info  - 6:27:18 PM] (14533) Found 68 source files
+2024-09-18 18:28:02.247 [info] [Info  - 6:28:02 PM] (14533) Found 69 source files
+2024-09-18 18:28:57.700 [info] [Info  - 6:28:57 PM] (14533) Found 70 source files
+2024-09-18 18:32:52.308 [info] (Client) Pylance async client (2024.9.1) started with python extension (2024.14.1)
+2024-09-18 18:32:52.945 [info] [Info  - 6:32:52 PM] (24063) Server root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.9.1/dist
+2024-09-18 18:32:52.946 [info] [Info  - 6:32:52 PM] (24063) Pylance language server 2024.9.1 (pyright version 1.1.378, commit ce64adc1) starting
+2024-09-18 18:32:52.946 [info] [Info  - 6:32:52 PM] (24063) Starting service instance "EduAccess"
+2024-09-18 18:32:52.977 [info] [Info  - 6:32:52 PM] (24063) Setting environmentName for service "EduAccess": "3.10.12 (global)"
+2024-09-18 18:32:52.977 [info] [Info  - 6:32:52 PM] (24063) Setting pythonPath for service "EduAccess": "/bin/python3"
+2024-09-18 18:32:52.977 [info] [Info  - 6:32:52 PM] (24063) No include entries specified; assuming /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess
+2024-09-18 18:32:52.978 [info] [Info  - 6:32:52 PM] (24063) Auto-excluding **/node_modules
+2024-09-18 18:32:52.978 [info] [Info  - 6:32:52 PM] (24063) Auto-excluding **/__pycache__
+2024-09-18 18:32:52.978 [info] [Info  - 6:32:52 PM] (24063) Auto-excluding **/.*
+2024-09-18 18:32:53.008 [info] [Info  - 6:32:53 PM] (24063) Assuming Python version 3.10.12.final.0
+2024-09-18 18:32:53.141 [info] [Info  - 6:32:53 PM] (24063) Found 70 source files
+2024-09-18 18:32:53.630 [info] [Info  - 6:32:53 PM] (24063) Background analysis(1) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.9.1/dist
+2024-09-18 18:32:53.634 [info] [Info  - 6:32:53 PM] (24063) Background analysis(1) started
+2024-09-18 18:32:53.860 [info] [Info  - 6:32:53 PM] (24063) Indexer background runner(2) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.9.1/dist (index)
+2024-09-18 18:32:53.860 [info] [Info  - 6:32:53 PM] (24063) Indexing(2) started
+2024-09-18 18:32:54.497 [info] [Info  - 6:32:54 PM] (24063) scanned(2) 129 files over 1 exec env
+2024-09-18 18:32:54.829 [info] [Info  - 6:32:54 PM] (24063) indexed(2) 72 files over 1 exec env
+2024-09-18 18:32:54.879 [info] [Info  - 6:32:54 PM] (24063) Indexing finished(2).
+2024-09-18 18:33:48.256 [info] [Info  - 6:33:48 PM] (24063) Starting service instance "<default>"
+2024-09-18 18:33:48.302 [info] [Info  - 6:33:48 PM] (24063) Setting environmentName for service "<default>": "3.10.12 (global)"
+2024-09-18 18:33:48.302 [info] [Info  - 6:33:48 PM] (24063) Setting pythonPath for service "<default>": "/bin/python3"
+2024-09-18 18:33:48.303 [info] [Info  - 6:33:48 PM] (24063) No include entries specified; assuming /<default workspace root>
+2024-09-18 18:33:48.304 [info] [Info  - 6:33:48 PM] (24063) Auto-excluding **/node_modules
+2024-09-18 18:33:48.304 [info] [Info  - 6:33:48 PM] (24063) Auto-excluding **/__pycache__
+2024-09-18 18:33:48.304 [info] [Info  - 6:33:48 PM] (24063) Auto-excluding **/.*
+2024-09-18 18:33:48.355 [info] [Info  - 6:33:48 PM] (24063) Assuming Python version 3.10.12.final.0
+2024-09-18 18:33:48.433 [info] [Error - 6:33:48 PM] (24063) File or directory "/<default workspace root>" does not exist.
+2024-09-18 18:33:48.433 [info] [Info  - 6:33:48 PM] (24063) No source files found.
+2024-09-18 18:33:48.969 [info] [Info  - 6:33:48 PM] (24063) Background analysis(3) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.9.1/dist
+2024-09-18 18:33:48.972 [info] [Info  - 6:33:48 PM] (24063) Background analysis(3) started
+2024-09-18 18:57:17.038 [info] [Info  - 6:57:17 PM] (24063) Found 71 source files
+2024-09-18 18:58:51.229 [info] [Info  - 6:58:51 PM] (24063) Found 72 source files
+2024-09-18 19:04:18.562 [info] [Info  - 7:04:18 PM] (24063) Found 73 source files
+2024-09-18 19:09:56.319 [info] [Info  - 7:09:56 PM] (24063) Found 74 source files
+2024-09-18 19:10:51.956 [info] [Info  - 7:10:51 PM] (24063) Found 75 source files
+2024-09-18 19:13:06.353 [info] [Info  - 7:13:06 PM] (24063) Found 76 source files
+2024-09-18 19:17:50.441 [info] [Info  - 7:17:50 PM] (24063) Found 77 source files
+2024-09-18 19:41:12.309 [info] [Info  - 7:41:12 PM] (24063) Found 78 source files
+2024-09-19 13:38:08.278 [info] [Info  - 1:38:08 PM] (24063) Found 79 source files
+2024-09-19 13:38:18.568 [info] [Info  - 1:38:18 PM] (24063) Found 80 source files
+2024-09-19 13:38:58.740 [info] [Info  - 1:38:58 PM] (24063) Found 81 source files
+2024-09-19 13:40:36.061 [info] [Info  - 1:40:36 PM] (24063) Found 82 source files
+2024-09-19 14:10:47.181 [info] [Info  - 2:10:47 PM] (24063) Found 83 source files
+2024-09-19 14:13:11.379 [info] [Info  - 2:13:11 PM] (24063) Found 84 source files
+2024-09-19 14:13:41.044 [info] [Info  - 2:13:41 PM] (24063) Found 85 source files
+2024-09-19 14:14:21.184 [info] [Info  - 2:14:21 PM] (24063) Found 86 source files
+2024-09-19 14:15:19.120 [info] [Info  - 2:15:19 PM] (24063) Found 87 source files
+2024-09-19 14:16:01.286 [info] [Info  - 2:16:01 PM] (24063) Found 88 source files
+2024-09-19 14:16:05.812 [info] [Info  - 2:16:05 PM] (24063) Found 95 source files
+2024-09-19 14:16:35.879 [info] [Info  - 2:16:35 PM] (24063) Found 96 source files
+2024-09-19 14:19:58.604 [info] [Info  - 2:19:58 PM] (24063) Found 98 source files
+2024-09-19 14:23:36.460 [info] [Info  - 2:23:36 PM] (24063) Found 99 source files
+2024-09-19 14:24:23.599 [info] [Info  - 2:24:23 PM] (24063) Found 100 source files
+2024-09-19 14:26:21.659 [info] [Info  - 2:26:21 PM] (24063) Found 101 source files
+2024-09-19 14:52:17.432 [info] [Info  - 2:52:17 PM] (24063) Found 102 source files
+2024-09-19 14:52:31.632 [info] [Info  - 2:52:31 PM] (24063) Found 103 source files
+2024-09-19 14:52:47.047 [info] [Info  - 2:52:47 PM] (24063) Found 104 source files
+2024-09-19 14:53:29.019 [info] [Info  - 2:53:29 PM] (24063) Found 105 source files
+2024-09-19 14:54:01.958 [info] [Info  - 2:54:01 PM] (24063) Found 106 source files
+2024-09-19 15:15:51.824 [info] [Info  - 3:15:51 PM] (24063) Found 107 source files
+2024-09-19 15:25:42.653 [info] [Info  - 3:25:42 PM] (24063) Found 108 source files
+2024-09-19 15:26:13.769 [info] [Info  - 3:26:13 PM] (24063) Found 109 source files
+2024-09-19 15:26:20.977 [info] [Info  - 3:26:20 PM] (24063) Found 112 source files
+2024-09-19 15:27:25.769 [info] [Info  - 3:27:25 PM] (24063) Found 112 source files
+2024-09-19 15:29:13.122 [info] [Info  - 3:29:13 PM] (24063) Found 112 source files
+2024-09-19 15:32:01.828 [info] [Info  - 3:32:01 PM] (24063) Found 113 source files
+2024-09-19 15:33:09.242 [info] [Info  - 3:33:09 PM] (24063) Found 114 source files
+2024-09-19 15:33:25.178 [info] [Info  - 3:33:25 PM] (24063) Found 115 source files
+2024-09-19 15:33:55.066 [info] [Info  - 3:33:55 PM] (24063) Found 116 source files
+2024-09-19 15:34:16.487 [info] [Info  - 3:34:16 PM] (24063) Found 117 source files
+2024-09-19 15:34:30.674 [info] [Info  - 3:34:30 PM] (24063) Found 118 source files
+2024-09-19 15:34:53.396 [info] [Info  - 3:34:53 PM] (24063) Found 119 source files
+2024-09-19 15:35:30.401 [info] [Info  - 3:35:30 PM] (24063) Found 120 source files
+2024-09-19 15:36:01.226 [info] [Info  - 3:36:01 PM] (24063) Found 121 source files
+2024-09-19 15:36:53.953 [info] [Info  - 3:36:53 PM] (24063) Found 122 source files
+2024-09-19 15:37:22.853 [info] [Info  - 3:37:22 PM] (24063) Found 123 source files
+2024-09-19 15:37:41.916 [info] [Info  - 3:37:41 PM] (24063) Found 124 source files
+2024-09-19 15:37:54.982 [info] [Info  - 3:37:54 PM] (24063) Found 125 source files
+2024-09-19 15:40:59.748 [info] [Info  - 3:40:59 PM] (24063) Found 126 source files
+2024-09-19 15:42:40.424 [info] [Info  - 3:42:40 PM] (24063) Found 128 source files
+2024-09-19 15:44:41.090 [info] [Info  - 3:44:41 PM] (24063) Found 129 source files
+2024-09-19 15:45:39.390 [info] [Info  - 3:45:39 PM] (24063) Found 131 source files

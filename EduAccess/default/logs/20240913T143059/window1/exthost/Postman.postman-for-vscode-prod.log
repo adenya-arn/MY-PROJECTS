@@ -1,0 +1,6 @@
+(2024-09-13T11:31:17.825Z) [info] [extension] Extension activation started: 1726227077814
+(2024-09-13T11:31:17.873Z) [info] [extension] KV storage migration: partitionMigration started
+(2024-09-13T11:31:17.884Z) [info] [extension] KV storage migration: partitionMigration completed
+(2024-09-13T11:31:17.887Z) [info] [extension] Extension activation completed: 1726227077887
+(2024-09-13T11:31:17.887Z) [info] [extension] Extension activation took 73ms
+(2024-09-13T11:52:06.662Z) [info] [extension:sidebar:adapter] fetching a correct html for the view mode: {"viewMode":"login"}

@@ -1,0 +1,95 @@
+2024-09-13 14:31:04.872 [info] (Client) Pylance async client (2024.9.1) started with python extension (2024.14.1)
+2024-09-13 14:31:05.419 [info] [Info  - 2:31:05 PM] (19217) Server root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.9.1/dist
+2024-09-13 14:31:05.419 [info] [Info  - 2:31:05 PM] (19217) Pylance language server 2024.9.1 (pyright version 1.1.378, commit ce64adc1) starting
+2024-09-13 14:31:05.420 [info] [Info  - 2:31:05 PM] (19217) Starting service instance "EduAccess"
+2024-09-13 14:31:05.456 [info] [Info  - 2:31:05 PM] (19217) No include entries specified; assuming /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess
+2024-09-13 14:31:05.457 [info] [Info  - 2:31:05 PM] (19217) Auto-excluding **/node_modules
+2024-09-13 14:31:05.457 [info] [Info  - 2:31:05 PM] (19217) Auto-excluding **/__pycache__
+2024-09-13 14:31:05.457 [info] [Info  - 2:31:05 PM] (19217) Auto-excluding **/.*
+2024-09-13 14:31:05.544 [info] [Info  - 2:31:05 PM] (19217) Found 6 source files
+2024-09-13 14:31:05.867 [info] [Info  - 2:31:05 PM] (19217) Background analysis(1) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.9.1/dist
+2024-09-13 14:31:05.869 [info] [Info  - 2:31:05 PM] (19217) Background analysis(1) started
+2024-09-13 14:31:16.580 [info] [Info  - 2:31:16 PM] Server process exited successfully
+2024-09-13 14:31:18.534 [info] (Client) Pylance async client (2024.9.1) started with python extension (2024.14.1)
+2024-09-13 14:31:19.064 [info] [Info  - 2:31:19 PM] (19332) Server root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.9.1/dist
+2024-09-13 14:31:19.065 [info] [Info  - 2:31:19 PM] (19332) Pylance language server 2024.9.1 (pyright version 1.1.378, commit ce64adc1) starting
+2024-09-13 14:31:19.070 [info] [Info  - 2:31:19 PM] (19332) Starting service instance "EduAccess"
+2024-09-13 14:31:19.132 [info] [Info  - 2:31:19 PM] (19332) Setting environmentName for service "EduAccess": "3.10.12 (global)"
+2024-09-13 14:31:19.132 [info] [Info  - 2:31:19 PM] (19332) Setting pythonPath for service "EduAccess": "/bin/python3"
+2024-09-13 14:31:19.133 [info] [Info  - 2:31:19 PM] (19332) No include entries specified; assuming /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess
+2024-09-13 14:31:19.134 [info] [Info  - 2:31:19 PM] (19332) Auto-excluding **/node_modules
+2024-09-13 14:31:19.134 [info] [Info  - 2:31:19 PM] (19332) Auto-excluding **/__pycache__
+2024-09-13 14:31:19.134 [info] [Info  - 2:31:19 PM] (19332) Auto-excluding **/.*
+2024-09-13 14:31:19.157 [info] [Info  - 2:31:19 PM] (19332) Assuming Python version 3.10.12.final.0
+2024-09-13 14:31:19.224 [info] [Info  - 2:31:19 PM] (19332) Found 6 source files
+2024-09-13 14:31:19.547 [info] [Info  - 2:31:19 PM] (19332) Background analysis(1) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.9.1/dist
+2024-09-13 14:31:19.551 [info] [Info  - 2:31:19 PM] (19332) Background analysis(1) started
+2024-09-13 14:35:44.066 [info] [Info  - 2:35:44 PM] (19332) Found 13 source files
+2024-09-13 14:35:48.825 [info] [Info  - 2:35:48 PM] (19332) Indexer background runner(2) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.9.1/dist (index)
+2024-09-13 14:35:48.825 [info] [Info  - 2:35:48 PM] (19332) Indexing(2) started
+2024-09-13 14:35:49.380 [info] [Info  - 2:35:49 PM] (19332) scanned(2) 127 files over 1 exec env
+2024-09-13 14:35:49.606 [info] [Info  - 2:35:49 PM] (19332) indexed(2) 72 files over 1 exec env
+2024-09-13 14:35:49.641 [info] [Info  - 2:35:49 PM] (19332) Indexing finished(2).
+2024-09-13 14:35:59.709 [info] [Info  - 2:35:59 PM] (19332) Starting service instance "<default>"
+2024-09-13 14:35:59.738 [info] [Info  - 2:35:59 PM] (19332) Setting environmentName for service "<default>": "3.10.12 (global)"
+2024-09-13 14:35:59.738 [info] [Info  - 2:35:59 PM] (19332) Setting pythonPath for service "<default>": "/bin/python3"
+2024-09-13 14:35:59.739 [info] [Info  - 2:35:59 PM] (19332) No include entries specified; assuming /<default workspace root>
+2024-09-13 14:35:59.739 [info] [Info  - 2:35:59 PM] (19332) Auto-excluding **/node_modules
+2024-09-13 14:35:59.739 [info] [Info  - 2:35:59 PM] (19332) Auto-excluding **/__pycache__
+2024-09-13 14:35:59.739 [info] [Info  - 2:35:59 PM] (19332) Auto-excluding **/.*
+2024-09-13 14:35:59.766 [info] [Info  - 2:35:59 PM] (19332) Assuming Python version 3.10.12.final.0
+2024-09-13 14:35:59.815 [info] [Error - 2:35:59 PM] (19332) File or directory "/<default workspace root>" does not exist.
+2024-09-13 14:35:59.816 [info] [Info  - 2:35:59 PM] (19332) No source files found.
+2024-09-13 14:36:00.241 [info] [Info  - 2:36:00 PM] (19332) Background analysis(3) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.9.1/dist
+2024-09-13 14:36:00.243 [info] [Info  - 2:36:00 PM] (19332) Background analysis(3) started
+2024-09-13 14:37:05.390 [info] [Info  - 2:37:05 PM] (19332) Found 14 source files
+2024-09-13 14:40:02.659 [info] [Info  - 2:40:02 PM] (19332) Found 15 source files
+2024-09-13 14:40:42.703 [info] [Info  - 2:40:42 PM] (19332) Found 16 source files
+2024-09-13 14:41:07.233 [info] [Info  - 2:41:07 PM] (19332) Found 16 source files
+2024-09-13 14:41:42.147 [info] [Info  - 2:41:42 PM] (19332) Found 16 source files
+2024-09-13 14:43:19.104 [info] [Info  - 2:43:19 PM] (19332) Found 17 source files
+2024-09-13 14:51:02.091 [info] [Info  - 2:51:02 PM] (19332) Found 18 source files
+2024-09-13 14:51:29.414 [info] [Info  - 2:51:29 PM] (19332) Found 19 source files
+2024-09-13 14:52:32.685 [info] [Info  - 2:52:32 PM] Server process exited successfully
+2024-09-13 14:52:33.287 [info] (Client) Pylance async client (2024.9.1) started with python extension (2024.14.1)
+2024-09-13 14:52:33.833 [info] [Info  - 2:52:33 PM] (19832) Server root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.9.1/dist
+2024-09-13 14:52:33.834 [info] [Info  - 2:52:33 PM] (19832) Pylance language server 2024.9.1 (pyright version 1.1.378, commit ce64adc1) starting
+2024-09-13 14:52:33.840 [info] [Info  - 2:52:33 PM] (19832) Starting service instance "EduAccess"
+2024-09-13 14:52:33.876 [info] [Info  - 2:52:33 PM] (19832) Setting environmentName for service "EduAccess": "3.10.12 (global)"
+2024-09-13 14:52:33.876 [info] [Info  - 2:52:33 PM] (19832) Setting pythonPath for service "EduAccess": "/bin/python3"
+2024-09-13 14:52:33.876 [info] [Info  - 2:52:33 PM] (19832) No include entries specified; assuming /home/zoro/Desktop/PROGRAMMING/MY-PROJECTS/EduAccess
+2024-09-13 14:52:33.877 [info] [Info  - 2:52:33 PM] (19832) Auto-excluding **/node_modules
+2024-09-13 14:52:33.877 [info] [Info  - 2:52:33 PM] (19832) Auto-excluding **/__pycache__
+2024-09-13 14:52:33.877 [info] [Info  - 2:52:33 PM] (19832) Auto-excluding **/.*
+2024-09-13 14:52:33.902 [info] [Info  - 2:52:33 PM] (19832) Assuming Python version 3.10.12.final.0
+2024-09-13 14:52:33.992 [info] [Info  - 2:52:33 PM] (19832) Found 19 source files
+2024-09-13 14:52:34.344 [info] [Info  - 2:52:34 PM] (19832) Background analysis(1) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.9.1/dist
+2024-09-13 14:52:34.346 [info] [Info  - 2:52:34 PM] (19832) Background analysis(1) started
+2024-09-13 14:52:34.529 [info] [Info  - 2:52:34 PM] (19832) Indexer background runner(2) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.9.1/dist (index)
+2024-09-13 14:52:34.529 [info] [Info  - 2:52:34 PM] (19832) Indexing(2) started
+2024-09-13 14:52:34.951 [info] [Info  - 2:52:34 PM] (19832) scanned(2) 127 files over 1 exec env
+2024-09-13 14:52:35.145 [info] [Info  - 2:52:35 PM] (19832) indexed(2) 72 files over 1 exec env
+2024-09-13 14:52:35.175 [info] [Info  - 2:52:35 PM] (19832) Indexing finished(2).
+2024-09-13 14:53:09.056 [info] [Info  - 2:53:09 PM] (19832) Starting service instance "<default>"
+2024-09-13 14:53:09.085 [info] [Info  - 2:53:09 PM] (19832) Setting environmentName for service "<default>": "3.10.12 (global)"
+2024-09-13 14:53:09.086 [info] [Info  - 2:53:09 PM] (19832) Setting pythonPath for service "<default>": "/bin/python3"
+2024-09-13 14:53:09.086 [info] [Info  - 2:53:09 PM] (19832) No include entries specified; assuming /<default workspace root>
+2024-09-13 14:53:09.086 [info] [Info  - 2:53:09 PM] (19832) Auto-excluding **/node_modules
+2024-09-13 14:53:09.086 [info] [Info  - 2:53:09 PM] (19832) Auto-excluding **/__pycache__
+2024-09-13 14:53:09.086 [info] [Info  - 2:53:09 PM] (19832) Auto-excluding **/.*
+2024-09-13 14:53:09.119 [info] [Info  - 2:53:09 PM] (19832) Assuming Python version 3.10.12.final.0
+2024-09-13 14:53:09.164 [info] [Error - 2:53:09 PM] (19832) File or directory "/<default workspace root>" does not exist.
+2024-09-13 14:53:09.164 [info] [Info  - 2:53:09 PM] (19832) No source files found.
+2024-09-13 14:53:09.585 [info] [Info  - 2:53:09 PM] (19832) Background analysis(3) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.9.1/dist
+2024-09-13 14:53:09.588 [info] [Info  - 2:53:09 PM] (19832) Background analysis(3) started
+2024-09-13 14:56:02.693 [info] [Info  - 2:56:02 PM] (19832) Found 20 source files
+2024-09-13 15:06:36.619 [info] [Info  - 3:06:36 PM] (19832) Found 21 source files
+2024-09-13 15:07:05.561 [info] [Info  - 3:07:05 PM] (19832) Found 22 source files
+2024-09-13 15:07:16.683 [info] [Info  - 3:07:16 PM] (19832) Found 23 source files
+2024-09-13 15:07:26.699 [info] [Info  - 3:07:26 PM] (19832) Found 24 source files
+2024-09-13 15:08:06.627 [info] [Info  - 3:08:06 PM] (19832) Found 25 source files
+2024-09-13 15:11:59.046 [info] [Info  - 3:11:59 PM] (19832) Found 26 source files
+2024-09-13 23:10:50.442 [info] [Info  - 11:10:50 PM] (19832) Found 27 source files
+2024-09-14 00:38:56.297 [info] [Info  - 12:38:56 AM] (19832) Found 28 source files
+2024-09-14 00:39:37.692 [info] [Info  - 12:39:37 AM] (19832) Found 29 source files
+2024-09-14 00:40:42.693 [info] [Info  - 12:40:42 AM] (19832) Found 30 source files
