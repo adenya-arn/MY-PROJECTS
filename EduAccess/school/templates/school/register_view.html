@@ -1,7 +1,10 @@
 {% extends 'base.html' %}
 
 {% block content %}
-
-<p>register register</p>
+<h1>Register</h1>
+<form>
+    {% csrf_token %}
+    {{form}}
+</form>
 
 {% endblock %}

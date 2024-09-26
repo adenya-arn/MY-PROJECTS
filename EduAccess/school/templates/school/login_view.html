@@ -2,6 +2,13 @@
 
 {% block content %}
 
-<p>loginlogin</p>
+<h1>Login</h1>
+<form method = 'POST'>
+    {% csrf_token %}
+    {{ form.as_p }}
 
-{% endblock %}
+</form>
+<p>Are you a new user will add funcinlity if one is redirected here</p>
+<a href=" {% url 'register' %}">Register</a>
+
+{% endblock %} 

@@ -1,6 +1,7 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from .models import Staff, Student, Class, Grade, Subject, Parent, Role, Performance
-
+from django.contrib.auth.views import LoginView
+from django.contrib.auth.forms import UserCreationForm
 # Create your views here.
 
 def home_view(request, *args, **kwargs):
@@ -70,12 +71,14 @@ def subjects_view(request, *args, **kwargs):
 
     return render (request, 'school/subjects_view.html', context)
 
+class LoginView(LoginView):
+    template_name = 'school/login_view.html'
 
-def login_view(request, *args, **kwargs):
+"""def login_view(request, *args, **kwargs):
 
     context = {}
 
-    return render (request, 'school/login_view.html', context)
+    return render (request, 'school/login_view.html', context)"""
 
 
 def logout_view(request, *args, **kwargs):
@@ -86,8 +89,14 @@ def logout_view(request, *args, **kwargs):
 
 
 def register_view(request, *args, **kwargs):
+    form = UserCreationForm
+    if request.method == 'POST':
+        form = UserCreationForm(request.POST)
+        if form.is_valid():
+            form.save()
+            return redirect('login')
 
-    context = {}
+    context = {'form':form}
 
     return render (request, 'school/register_view.html', context)
 

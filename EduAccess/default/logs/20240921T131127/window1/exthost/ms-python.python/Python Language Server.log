@@ -72,3 +72,8 @@
 2024-09-22 12:40:41.521 [info] [Info  - 12:40:41 PM] (35050) Found 173 source files
 2024-09-22 12:45:07.045 [info] [Info  - 12:45:07 PM] (35050) Found 174 source files
 2024-09-22 12:46:43.798 [info] [Info  - 12:46:43 PM] (35050) Found 177 source files
+2024-09-23 12:30:06.935 [info] [Info  - 12:30:06 PM] (35050) Indexer background runner(4) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.9.1/dist (refresh)
+2024-09-23 12:30:06.937 [info] [Info  - 12:30:06 PM] (35050) Indexing(4) started
+2024-09-23 12:30:07.911 [info] [Info  - 12:30:07 PM] (35050) scanned(4) 129 files over 1 exec env
+2024-09-23 12:30:09.015 [info] [Info  - 12:30:09 PM] (35050) indexed(4) 72 files over 1 exec env
+2024-09-23 12:30:09.057 [info] [Info  - 12:30:09 PM] (35050) Indexing finished(4).

@@ -26,10 +26,13 @@ class Stream (models.Model):
 
 class Class (models.Model):
     number = models.SmallIntegerField()
-    stream = models.ForeignKey(Stream, on_delete=models.PROTECT)
+    stream = models.ForeignKey(Stream, on_delete=models.PROTECT, default='Nil')
+
+    class Meta:
+        unique_together = ('number', 'stream')
 
     def __str__(self):
-        return f'{self.number}{self.stream}'
+        return f'{self.number} {self.stream.letter}'
 
 class Grade (models.Model):
     marks = models.SmallIntegerField()
